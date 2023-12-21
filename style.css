@@ -45,7 +45,7 @@ section{
 h1 {
     color:var(--cyan);
 }
-.hassle-free {
+h2.hassle {
     color:var(--bright-yellow);
 }
 .white {
