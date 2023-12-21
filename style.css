@@ -75,7 +75,8 @@ button {
     text-align:center;
     border:none;
     color:#fff;
-    box-shadow:0 0 1 1;
+    box-shadow:0 0 2 1;
+    cursor: pointer;
 
 }
 ul {
