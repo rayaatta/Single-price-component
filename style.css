@@ -22,6 +22,7 @@ body {
 }
 main{
     width:80%;
+    border-radius:5px;
 }
 section{
     padding:5%;
@@ -69,11 +70,13 @@ p {
 button {
     background:var(--bright-yellow);
     width:100%;
-    border-radius:4px;
+    border-radius:5px;
     padding-block:1em;
     text-align:center;
     border:none;
     color:#fff;
+    box-shadow:0 0 1 1;
+
 }
 @media screen and (min-width:400px) {
     main {
